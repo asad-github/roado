@@ -4,7 +4,7 @@ import Scheduled_Activities from "./Scheduled_Activities";
 
 function Sidebar(props) {
   return (
-    <div className=" bg-white w-[400px] right-0">
+    <div className=" bg-white w-[350px] right-0 flex-shrink-0">
       <div className=" m-3">
         <p className=" text-lg font-medium">Todays Highlights (14)</p>
         <p className=" text-xs text-gray-500">19 Mar 2024</p>

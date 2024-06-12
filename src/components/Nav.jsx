@@ -2,7 +2,7 @@ import React from "react";
 
 function Nav(props) {
   return (
-    <div className=" w-16 bg-white">
+    <div className=" w-14 bg-white flex-shrink-0">
       <ul className="">
         <li className=" py-3">
           <svg
