@@ -63,15 +63,15 @@ function Graphs(props) {
         <DoughnutChart />
         <div className=" grid-rows-3 gap-2">
           <div className=" mb-3 flex justify-between mx-2 p-1 rounded-md bg-gradient-to-l from-yellow-400">
-            <p>Upcoming</p>
+            <p>Freight Charge</p>
             <p>50</p>
           </div>
           <div className=" mb-3 flex justify-between mx-2 p-1 rounded-md bg-gradient-to-l from-indigo-500">
-            <p>Ongoing</p>
+            <p>Driver Charge</p>
             <p>100</p>
           </div>
           <div className=" mb-3 flex justify-between mx-2 p-1 rounded-md bg-gradient-to-l from-teal-400">
-            <p>Completed</p>
+            <p>Other Charges</p>
             <p>50</p>
           </div>
         </div>
